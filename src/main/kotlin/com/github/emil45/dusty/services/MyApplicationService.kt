@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.emil45.dusty.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.emil45.dusty.MyBundle
 
 class MyApplicationService {
 
